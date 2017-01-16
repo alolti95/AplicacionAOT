@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AplicacionAOT</string>
+    <string name="nomIn">"Introduce tu tlfno:"</string>
+</resources>
